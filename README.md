@@ -1,9 +1,9 @@
 <h1 align="center">Olá, Eu sou João Marcos</h1>
-<h3 align="center">Iniciante em desenvolvimento Back end</h3>
+<h3 align="center">Iniciante em desenvolvimento Back-end</h3>
 
-- 🔭 Desenvolvendo projetos práticos a partir dos conhecimentos adquiridos nos cursos. Confira eles no meu repositório [Projetos](https://github.com/joao-marcos2023/Projetos)
+- 🔭 Desenvolvendo projetos práticos a partir dos conhecimentos adquiridos na minha aprendizagem. Confira eles nos repositório iniciados com "Projetos".
 
-- 🌱 Estou estudando **Análise e Desenvolvimento de Sistemas Pela Wyden - Unimetrocamp e também realizando cursos focados no desenvolvimento back end na [DIO](https://www.dio.me/) .**
+- 🌱 Estou estudando **Análise e Desenvolvimento de Sistemas Pela Wyden - Unimetrocamp e também realizando cursos focados no desenvolvimento back-end pela [DIO](https://www.dio.me/) .**
 
 - 📫 Você pode entrar em contato comigo pelo e-mail: **joaomarcos.ipms@gmail.com**
 
@@ -22,10 +22,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  
-  
-  
-  
   
   </p>
 
