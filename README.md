@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Eu sou João Marcos</h1>
-<h3 align="center">Iniciante em desenvolvimento Back-end</h3>
+<h3 align="center">Desenvolvedor Backend</h3>
 
 - 🔭 Desenvolvendo projetos práticos a partir dos conhecimentos adquiridos na minha aprendizagem. Confira eles nos repositório iniciados com "Projetos".
 
