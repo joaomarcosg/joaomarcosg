@@ -33,7 +33,7 @@
   > Serviço de encurtamento de URLs estilo Bitly usando Go e framework Chi
 
 - [Gerenciador de Hábitos](https://github.com/joaomarcosg/Projeto-Habit-Manager-Golang.git)
-  > API Restful de gerenciamento de hábitos desenvolvida em Go, Chi e banco de dados MySQL
+  > API RESTful de gerenciamento de hábitos desenvolvida em Go, Chi e banco de dados MySQL
 
 - [Champions League API](https://github.com/joaomarcosg/Projeto-Champions-League-API-Golang-Chi.git)
   > API RESTful em Go para gerenciamento de clubes e jogadores
