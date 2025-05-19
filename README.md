@@ -38,8 +38,10 @@
 - [Champions League API](https://github.com/joaomarcosg/Projeto-Champions-League-API-Golang-Chi.git)
   > API RESTful em Go para gerenciamento de clubes e jogadores
 
--[API Fórmula 1](https://github.com/joaomarcosg/Projeto-Minimal-API-F1-Node.js-TypeScript-Express-SQlite.git)
- > CRUD com Node.js, Express e SQLite
+- [API Fórmula 1](https://github.com/joaomarcosg/Projeto-Minimal-API-F1-Node.js-TypeScript-Express-SQlite.git)
+  > CRUD com Node.js, Express e SQLite
+
+---
 
 ### 📫 Contato 
 
