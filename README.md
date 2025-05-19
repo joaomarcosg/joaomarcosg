@@ -1,42 +1,47 @@
-<h1 align="center">Olá, Eu sou João Marcos!</h1>
+# 👋 Olá, Eu sou o João Marcos!
 
-###
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (Unimetrocamp)
+- 💻 Desenvolvedor Backend com foco em Go
+- 🚀 Apaixonado por criar soluções com código e aprender novas tecnologias 
 
-<p align="left">💻 Desenvolvedor Backend</p>
+---
 
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">🎓 Cursando Análise e Desenvolvimento de Sistemas pela Wyden - Unimetrocamp<br>📚 Foco em programação backend com a linguagem Go e Node.js<br>🔭 Entusiasta em criar soluções usando código</p>
-
-###
-
-<h2 align="left">Linguagens e ferramentas</h2>
-
-###
+### 🛠 Tecnologias e ferramentas
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
-
-###
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="30" alt="go logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
+  <img width="10" />
 </div>
 
-###
+---
+
+### 📌 Projetos em destaque
+
+- [Encurtador de Links](https://github.com/joaomarcosg/Projeto-Encurtador-de-Links-Golang-Redis.git)
+  > Serviço de encurtamento de URLs estilo Bitly usando Go e framework Chi
+
+- [Gerenciador de Hábitos](https://github.com/joaomarcosg/Projeto-Habit-Manager-Golang.git)
+  > API Restful de gerenciamento de hábitos desenvolvida em Go, Chi e banco de dados MySQL
+
+- [Champions League API](https://github.com/joaomarcosg/Projeto-Champions-League-API-Golang-Chi.git)
+  > API RESTful em Go para gerenciamento de clubes e jogadores
+
+-[API Fórmula 1](https://github.com/joaomarcosg/Projeto-Minimal-API-F1-Node.js-TypeScript-Express-SQlite.git)
+ > CRUD com Node.js, Express e SQLite
+
+### 📫 Contato 
+
+[![LinkedIn](https://img.shields.io/badge/-João%20Marcos-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-marcos-santana-gomes)
+[![Gmail](https://img.shields.io/badge/-joaomarcos.ipms@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:joaomarcos.ipms@gmail.com)
