@@ -1,6 +1,6 @@
 # 👋 Olá, Eu sou o João Marcos!
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (Unimetrocamp)
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Unimetrocamp - SP
 - 💻 Desenvolvedor Backend com foco em Go
 - 🚀 Apaixonado por criar soluções com código e aprender novas tecnologias 
 
@@ -28,6 +28,9 @@
 ---
 
 ### 📌 Projetos em destaque
+
+- [Websocket API Leilão em Tempo Real](https://github.com/joaomarcosg/Projeto-Gobid.git)
+  > API Websocket de leilões de produtos em tempo real
 
 - [Encurtador de Links](https://github.com/joaomarcosg/Projeto-Encurtador-de-Links-Golang-Redis.git)
   > Serviço de encurtamento de URLs estilo Bitly usando Go e framework Chi
