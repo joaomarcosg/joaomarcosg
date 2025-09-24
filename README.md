@@ -53,7 +53,7 @@
 - [Encurtador de Links](https://github.com/joaomarcosg/Projeto-Encurtador-de-Links-Golang-Redis.git)
   > Serviço de encurtamento de URLs estilo Bitly usando Go e framework Chi
 
-- [Gerenciador de Hábitos](https://github.com/joaomarcosg/Projeto-Habit-Manager-Golang.git)
+- [Gerenciador de Hábitos](https://github.com/joaomarcosg/Habit-Manager-API.git)
   > API RESTful de gerenciamento de hábitos desenvolvida em Go, Chi e banco de dados MySQL
 
 - [Champions League API](https://github.com/joaomarcosg/Projeto-Champions-League-API-Golang-Chi.git)
