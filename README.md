@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Unimetrocamp - SP<br>- 💻 Desenvolvedor Backend com foco em Go e .NET com C#<br>- 🚀 Apaixonado por criar soluções com código e aprender novas tecnologias</p>
+<p align="left">- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Unimetrocamp - SP<br>- 💻 Desenvolvedor Backend com foco em Go e Java<br>- 🚀 Apaixonado por criar soluções com código e aprender novas tecnologias</p>
 
 ###
 
@@ -30,11 +30,9 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
