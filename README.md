@@ -15,15 +15,15 @@
 
 ###
 
-<h1 align="center">👋 Olá, eu sou o João Marcos!</h1>
+<h1 align="center">👋 Hello, I'm João Marcos!</h1>
+
+###
+<h2> 🧠 Aboute me </h2>
+- 🎓 Graduated in Systems Analysis and Development from Unimetrocamp - SP<br>- 💻 Backend developer with a focus on Go and Java.<br>- 🚀 Passionate about creating solutions with code and learning new technologies
 
 ###
 
-<p align="left">- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Unimetrocamp - SP<br>- 💻 Desenvolvedor Backend com foco em Go e Java<br>- 🚀 Apaixonado por criar soluções com código e aprender novas tecnologias</p>
-
-###
-
-<h2 align="left">🛠 Tecnologias e Ferramentas</h2>
+<h2>🛠 Technologies and tools</h2>
 
 ###
 
@@ -40,22 +40,4 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
-
-###
-
-<h2 align="left">📌 Projetos em destaque</h2>
-
-- [Websocket API Leilão em Tempo Real](https://github.com/joaomarcosg/Projeto-Gobid.git)
-  > API Websocket de leilões de produtos em tempo real
-
-- [Encurtador de Links](https://github.com/joaomarcosg/Projeto-Encurtador-de-Links-Golang-Redis.git)
-  > Serviço de encurtamento de URLs estilo Bitly usando Go e framework Chi
-
-- [Gerenciador de Hábitos](https://github.com/joaomarcosg/Habit-Manager-API.git)
-  > API RESTful de gerenciamento de hábitos desenvolvida em Go, Chi e banco de dados MySQL
-
-- [Champions League API](https://github.com/joaomarcosg/Projeto-Champions-League-API-Golang-Chi.git)
-  > API RESTful em Go para gerenciamento de clubes e jogadores
-
-###
 
